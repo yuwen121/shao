@@ -1,2 +1,2 @@
 # shao
-My first Resource
+My first Resource and learn how to use the github
